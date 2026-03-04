@@ -1,11 +1,13 @@
 ## DeepSeek-VL2 OCR Artwork(image) to Text Extraction Application
 
 📋 Overview
+
 A powerful OCR (Optical Character Recognition) application built on DeepSeek-VL2, a state-of-the-art vision-language model. This application extracts text from images with high accuracy, preserving formatting, structure, and layout. It's specifically designed for extracting job vacancy details from PNG artwork, flyers, and other image-based documents.
 
 Built on NVIDIA A100 GPU with 40GB memory, this application delivers fast and accurate text extraction for recruitment workflows and document digitization.
 
 ✨ Key Features
+
 - High-Accuracy Text Extraction: Leverages DeepSeek-VL2's vision-language capabilities
 
 - Format Preservation: Maintains spaces, bullets, numbers, and formatting
@@ -19,6 +21,7 @@ Built on NVIDIA A100 GPU with 40GB memory, this application delivers fast and ac
 - GPU-Accelerated: Optimized for CUDA-enabled GPUs (NVIDIA A100)
 
 🛠️ Technology Stack
+
 - Base Model - DeepSeek-VL2-Tiny
 - Framework	- PyTorch 2.0.1
 - Transformers - Hugging Face Transformers 4.38.2
@@ -48,8 +51,9 @@ User Input (Image Upload)
 [Output Layer]
 - Extracted text display
 - Format preservation
-- 
+  
 🚀 Installation & Setup
+
 Prerequisites
 - Python 3.11+
 
@@ -92,7 +96,7 @@ Step-by-Step Installation
   Running on public URL: https://xxxxx.gradio.live
   This share link expires in 72 hours.
 
-Sample Input/Output:
+🎯 Sample Input/Output:
 
 - Input Image: A job vacancy flyer with company name, position, requirements, and contact details
 
