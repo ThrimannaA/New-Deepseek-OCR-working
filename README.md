@@ -94,6 +94,7 @@ Step-by-Step Installation
 - The application will launch with output similar to:
 
   Running on public URL: https://xxxxx.gradio.live
+  
   This share link expires in 72 hours.
 
 🎯 Sample Input/Output:
