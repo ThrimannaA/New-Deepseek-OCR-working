@@ -110,7 +110,7 @@ Step-by-Step Installation
   - Knowledge of Python and SQL
   - Fresh graduates encouraged to apply
 
-Apply now: careers@sdconcepts.lk
+  Apply now: careers@sdconcepts.lk
 
 📝 License
 - This project uses DeepSeek-VL2, which is licensed under the MIT License. 
